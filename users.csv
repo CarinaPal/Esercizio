@@ -1,0 +1,11 @@
+id,address,email,firstName,lastName
+1,Via Milano 2,luigi.verdi@example.com,Luigi,Verdi
+2,Via Torino 36,anna.bianchi@example.com,Anna,Bianchi
+3,Via Firenze 43,giovanni.neri@example.com,Giovanni,Neri
+4,Via Napoli 25,maria.giovanni@example.com,Maria,Perri
+5,Via Genova 8,mario.rossi@example.com,Mario,Rossi
+6,Via Siena 67,mario.rossi@example.com,Marco,Polo
+7,Via Amalfi 50,mario.rossi@example.com,Rita,Percoco
+8,Via Napoleone 34,mario.rossi@example.com,Luciano,Marrone
+9,Via Cosenza 23,mario.rossi@example.com,Lisa,Levi
+10,Via Roma 10,mario.rossi@example.com,Andrea,Moro
